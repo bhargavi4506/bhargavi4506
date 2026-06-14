@@ -18,12 +18,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=bhargavi4506\&theme=tokyonight\&no-frame=true\&margin-w=10)
-
----
-
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=bhargavi4506\&theme=tokyo-night)
